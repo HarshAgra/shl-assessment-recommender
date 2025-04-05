@@ -1,5 +1,7 @@
 fastapi
 uvicorn
-pandas
-openpyxl
 streamlit
+pandas
+numpy
+scikit-learn
+sentence-transformers
