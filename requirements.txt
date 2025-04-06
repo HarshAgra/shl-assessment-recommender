@@ -1,8 +1,10 @@
-streamlit
+fastapi
+uvicorn
 pandas
 numpy
 scikit-learn
-sentence-transformers
-torch
+sentence-transformers==2.2.2
+transformers==4.31.0
+torch==2.0.1
 openpyxl
-huggingface_hub
+huggingface_hub==0.14.1
