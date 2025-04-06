@@ -1,9 +1,9 @@
 fastapi
 uvicorn
-streamlit
 pandas
 numpy
 scikit-learn
-sentence-transformers
-requests
+sentence-transformers==2.2.2
+transformers==4.31.0
+torch==2.0.1
 openpyxl
